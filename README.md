@@ -1,4 +1,4 @@
-i#Original de cannon.py
+#Original de cannon.py
 # Cannon.py
 
 Juego realizado en Python utilizando Turtle, donde el jugador dispara proyectiles para destruir objetivos en movimiento.
